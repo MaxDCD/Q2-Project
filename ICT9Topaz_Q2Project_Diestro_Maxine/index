@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<head>
+	<title>✨The Philippines: Places You Must Travel To ✨</title>
+
+	<link href="https://fonts.googleapis.com/css2?family=Amatic+SC:wght@700&family=Linefont:wght@100&family=Playpen+Sans:wght@100;400&display=swap" rel="stylesheet">
+	<link rel="stylesheet" href="style-project.css">
+</head>
+<body>
+	<img src="https://upload.wikimedia.org/wikipedia/en/c/c2/Love_the_Philippines_logo.png" width="200px">
+	<br>
+	<div class="header">
+		<h1>✨The Philippines: Places You Must Travel To ✨</h1>
+	</div>
+	<br>
+
+	<div class="header2">
+			<p> The Philippines, an archipelago consisting of 7,000+ islands filled with beautiful and breathtaking scenery is a must to travel to.</p>
+			<p> Here's 3 places to check out that you should definitely add to your bucket list!</p>
+	</div>
+
+
+	<br>
+
+	<br>
+
+	<div class="body">
+		<div class="section">
+			<div class="container">
+				<div class="Bohol">
+
+					<h1>Bohol</h1>
+					<ul>
+						<li>Famous for being the home of <i><strong>The Chocolate Hills</strong></i> (picture)</li>
+						<li><i><strong>Tarsier Sanctuary</strong></i> where endangered tarsiers reside</li>
+						<li>Many <strong><i>ancestral homes and old churches</i></strong> that date back to the <i>Spanish colonization</i></li>
+						<br>
+						<br>
+
+					<div class="button">
+						<button onclick="window.location.href='https://www.itsmorefuninthephilippines.co.uk/bohol/'">Learn more!</button>
+					</div>
+
+
+					</ul>
+				</div>
+			</div>
+
+			<div class="container">
+				<div class="boracayimg">
+					<img src="https://gttp.imgix.net/324848/x/0/boracay-newcoast-6-attractions-hotels-and-things-to-do-11.jpg?auto=compress%2Cformat&ch=Width%2CDPR&dpr=1&ixlib=php-3.3.0&w=883" width="370px" height="380px">
+				</div>
+			</div>
+
+			<div class="container">
+				<div class="Palawan">
+				<h1> Palawan </h1>
+				<ul>
+					<li>Rated as the <strong>number one</strong> tourist spot in the Philippines, it's no wonder that Palawan is added to this list!</li>
+					<li> Two of the most visited spots are the infamous <i><strong>Puerto Princessa Subterranean River</i></strong> and <i><strong>El Nido's lagoon</strong></i> (picture)</li>
+					<li>Many diving spots with unique surroundings filled with cool sea creatures (sea turtles, manta rays, seahorses, etc.)</li>
+					<br>
+					<div class="button">
+						<button onclick="window.location.href='https://www.itsmorefuninthephilippines.co.uk/palawan/'">Learn more!</button>
+					</div>
+
+
+				</div>
+			</div>
+
+			<div class="container">
+				<div class="boholimg">
+				<img src="https://media.istockphoto.com/id/120621678/photo/chocolate-hills-under-blue-sky-in-the-philippines.jpg?s=612x612&w=0&k=20&c=F4J1UZy4kX0X6iEpOoxARCK8jFiuJyy2Tss4wcxcb7g=" width="370px" height="350px">
+
+				</div>
+			</div>
+			
+			<div class="container">
+				<div class="Boracay">
+				<h1> Boracay </h1>	
+				<ul>
+					<li> Famous for its beaches filled with <strong>white sand</strong> and surrounded by its <i><strong>clear, mesmerizing, and azure water</strong></i> (picture) </li>
+					<li> One of the <i>top destinations for <strong>relaxation</strong></i></li>
+					<li> You can find many resorts, restaurants, and tons of cool activities to try <i>(e.g. banana boat rides, parasailing, scuba diving, island hopping)</i>.</li>
+					<br>
+					<div class="button">
+						<button onclick="window.location.href='https://www.itsmorefuninthephilippines.co.uk/boracay/'">Learn more!</button>
+					</div>
+					
+				</div>
+			</div>
+
+			<div class="container">
+				<div class="palawanimg">
+				<img src="https://www.vacationhive.com/images/hives/2/2-el-nido-gallery-img3.jpg" width="370px" height="350px">
+				</div>
+			</div>
+		</div>
+	</div>
+			<br>
+			<br>
+				<footer>
+				<div class="footer">
+					<h2>✨Image Sources✨</h2>
+					<ul>
+				</div>
+						<li><a href="https://www.istockphoto.com/photo/chocolate-hills-under-blue-sky-in-the-philippines-gm120621678-16076383?phrase=bohol&searchscope=image%2Cfilm">Bohol: Chocolate Hills</a></li>
+						<li><a href="https://guidetothephilippines.ph/articles/what-to-experience/boracay-newcoast-attractions">Boracay: White Beach</a></li>
+						<li><a href="https://www.vacationhive.com/Philippines-tourist-destination-El-Nido-vhy1jxxgKzW961/#google_vignette">Palawan: El Nido Lagoon</a></li>
+					</ul>
+					<br>
+				</footer>
+
+</body>
+
+</html>
