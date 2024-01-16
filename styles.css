@@ -2,6 +2,7 @@ body {
 	background-image: url(https://media.istockphoto.com/id/1473165505/photo/tourist-woman-in-white-summer-dress-relaxing-on-boat-at-the-beautiful-phi-phi-islands.jpg?s=612x612&w=0&k=20&c=_OuGUdN40pOdqp8tnMUY9klMDkSwMwtRhTtBTPLu23s=);
 	background-attachment: fixed;
 	background-size: 100%;
+	background-repeat: no repeat;
 	font-family: 'Amatic SC', sans-serif;
 	font-size: 25px;
 }
